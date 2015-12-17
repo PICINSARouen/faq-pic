@@ -8,4 +8,4 @@ Pas d'archivage papier. Ne faites pas la même erreur que nous en laissant des a
 
 ## Utilisez DataTool
 
-J'en parle dans [la rédaction des documents globalement](documents/redaction.md).
+J'en parle dans [la rédaction des documents globalement](redaction.md).
