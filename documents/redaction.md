@@ -4,7 +4,7 @@ Vous allez utiliser LaTeX. Vous allez bien en bouffer :-) Donc mieux vaut utilis
 
 ## Les références
 
-Limitez les références ! Vous savez (ou pas ^^) les tableaux que vous avez au début de tous les documents. Ce tableau que vous copiez à chaque fois que vous avez un nouveau document à rédiger. Faites-y attention, si il y en a trop ça va vous souler par la suite. Donc regardez le bien, enlevez tout, et ajoutez uniquement les documents qui sont cités dans votre texte. Ça va vous simplifier la vie pour les EC (États des Configurations).
+Limitez les références ! Vous savez (ou pas ^^) les tableaux que vous avez au début de tous les documents. Ce tableau que vous copiez à chaque fois que vous avez un nouveau document à rédiger. Faites-y attention, si il y en a trop ça va vous souler par la suite. Donc regardez le bien, enlevez tout, et ajoutez uniquement les documents qui sont cités dans votre texte. Ça va vous simplifier la vie pour [les EC (États des Configurations)](ec.md).
 
 Je n'ai pas essayé mais je pense que ça serait une très bonne idée d'utiliser le package pour la bibliographie pour faire le tableau des références. Ça permettrait d'avoir vraiment quelque chose de solide sans documents inutiles.
 
