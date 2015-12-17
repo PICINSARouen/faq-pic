@@ -6,3 +6,7 @@
 * [Plan Qualité](documents/pq.md)
 * [Plan Gestion des Configurations](documents/pgc.md)
 * [État des configurations](documents/ec.md)
+
+## Gestion de Projet
+
+* [Formations](gestion-projet/formations.md)
