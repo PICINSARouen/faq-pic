@@ -31,4 +31,8 @@ On utilise [Google Drive](https://docs.google.com/) pour le planning du PIC et p
 
 ### Gitlab CI
 
-On utilise également Gitlab CI pour tout ce qui est *Continuous Integration*. Ça permet de lancer les tests à chaque commit d'un membre du PIC, de vérifier sur les *Pull Request* qu'il n'y a pas de problème avec les tests existants, et même de génerer et de mettre en ligne la documentation et le *code coverage*. Très pratique ! 
+On utilise également Gitlab CI pour tout ce qui est *Continuous Integration*. Ça permet de lancer les tests à chaque commit d'un membre du PIC, de vérifier sur les *Pull Request* qu'il n'y a pas de problème avec les tests existants, et même de génerer et de mettre en ligne la documentation et le *code coverage*. Très pratique !
+
+## Docker
+
+Je n'utilise pas Docker mais LXC pour gérer des conteneurs sur le serveur PIC. D'autres pourront écrire un tuto pour utiliser correctement Docker en PIC. Concernant LXC, j'ai suivi [ce tuto](http://vincent.dauce.fr/administrer-un-serveur-dedie-part-3-virtualisation/) pour tout installer en adaptant un peu tout ce qui est adresses IP internes et externes.
