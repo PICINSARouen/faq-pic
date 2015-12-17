@@ -9,4 +9,5 @@
 
 ## Gestion de Projet
 
+* [Outils](gestion-projet/outils.md)
 * [Formations](gestion-projet/formations.md)
