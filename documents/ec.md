@@ -19,7 +19,7 @@ Pour une livraison client, c'est pas trop dur de savoir ce qu'il faut livrer. Po
 * Les documents qualité : PQ et PGC.
 * Les documents de spécification : DSE, DSI et PTV.
 * Les documents de conception : DCP et DCD.
-* Le code
+* Le code avec une version (tag ou commit).
 
 Pensez bien à livrer également tous les documents nécessaires à la compréhension des documents livrés. Ça casse un peu la règle de « je ne livre pas les documents en référence », mais il faut également mettre (dans le premier tableau du coup).
 
