@@ -11,8 +11,10 @@ Le Plan Qualité est sans doute le document le plus utile de votre PIC. C'est ce
 * **WBS** je n'ai aucune idée de ce que c'est et de l'utilité du truc. Voir avec la mission qualité.
 * **La gestion de projet**
     * Planning : les sprints prévus par votre client. Dites bien ouvertement que ce planning n'a pas besoin d'être à jour (ça vous évitera de faire des FFT pour mettre à jour cette partie). C'est juste le planning prévu au départ avec le client et que la plannification se fera au fur et à mesure des réunions clients.
-    * Le suivi du projet : expliquer que vous allez suivre les tâches par personne avec PGPic. Si votre client est d'accord, je vous conseille de dire que vous allez suivre les tâches avec Trello à la place de PGPic (comme ça vous vous débarrassez de la partie lourde de PGPic qui est difficile à gérer). Le client est d'accord ça veut dire avoir un mail de sa part disant qu'il approuve le choix. Le client y aura accès. Vous pouvez détailler ici toutes les méthodes de communication avec le client sur le projet.
+    * Le suivi du projet : expliquer que vous allez suivre les tâches par personne avec PGPic. Si votre client est d'accord, je vous conseille de dire que vous allez suivre les tâches avec Trello à la place de PGPic (comme ça vous vous débarrassez de la partie lourde de PGPic qui est difficile à gérer). Le client est d'accord ça veut dire avoir un mail de sa part disant qu'il approuve le choix.
     * Gestion des risques (« et opportunités » ça manque dans la DGQ2 c'est une faute) : dire que vous allez identifier les risques et mettre en place des actions pour éviter qu'ils se déclenchent. Que vous allez identifier les opportunités et que vous allez mettre en place des actions pour qu'elles se déclenchent. Que vous allez rédiger un Portefeuille de risques et opportunités et des fiches de risques et opportunités avec des pilotes responsable et que vous allez les réévaluer toutes les semaines durant une réunion.
+* **Réalisation du produit**
+    * Communication avec le client. Le client aura accès à vos outils du genre Trello si vous voulez l'utiliser. Vous pouvez détailler ici toutes les autres méthodes de communication avec le client sur le projet.
 
 
 ## Temps de travail
