@@ -23,6 +23,15 @@ Le Plan Qualité est sans doute le document le plus utile de votre PIC. C'est ce
         * Validation. Déroulement du PTV en interne.
         * Recette. Déroulement du CDR avec le client. (à décrire en détail)
         * Réunion avec le client -> Besoins du client
+* **Management de la qualité**
+    * Politique Qualité : à quoi ça sert ? C'est les objectifs de la qualité donc un produit conforme aux besoins du client, une bonne communication avec le client et la résolution efficace des problèmes (oh tiens on dirait l'agile ^^) .
+    * Les indicateurs : vous allez mettre en place des indicateurs qui vont être mis à jour toutes les semaines, et être diffusé à l'équipe PIC sous forme de Tableau de Bord (je vous conseille de marquer diffusés par mail plutôt que affichés en salle PIC afin de sauver les arbres). Vous aurez des indicateurs hebdomadaires (du genre le temps de travail) et des indicateurs ponctuels (genre les notes aux revues). Voir avec Benjemin pour ne pas les mettre dans le PQ et les garder à un seul endroit dans les Fiches Indicateurs (ça évite de faire plusieurs modifications si on veut changer un indicateur).
+    * Les autits interne chaque semestre afin de garantir la qualité.
+    * Les faits techniques (je vous conseille de faire un schéma et que tout le monde utilise le même dans les PIC)
+        * Quand émettre une FFT (remarque client, évolution d'un document, audit, inspection technique, problème détecté en interne)
+        * Pourquoi émettre une FFT (amélioration continue, traitement du problème et éviter qu'il se reproduise)
+        * Comment émettre une FFT (PGPic et définir un titre, une source, une gravité, un type et une description).
+    * Les Ordres de Correction. À chaque émission de FT, organisation d'une CTFT afin de faire l'analyse des causes et de rédiger les actions curratives et correctives dans une FOC. Il faut que quelqu'un soit en charge de la correction, définir des conditions de clôture et définir une date limite. Pas de clôture avant l'approbation des documents qui doivent être modifiés par la FOC.
 
 ## Temps de travail
 
