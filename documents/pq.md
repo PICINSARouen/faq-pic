@@ -21,7 +21,7 @@ Le Plan Qualité est sans doute le document le plus utile de votre PIC. C'est ce
         * Conception. Mise à jour du DC, PTI et PTU (documents sans versions)
         * Développement. Développement des tests et du code. Mise à jour du DC, PTI et PTU en fonction de l'évolution de l'architecture. Validation des tests unitaires et d'intégration automatique (via Jenkins ou Gitlab CI).
         * Validation. Déroulement du PTV en interne.
-        * Recette. Déroulement du CDR avec le client.
+        * Recette. Déroulement du CDR avec le client. (à décrire en détail)
         * Réunion avec le client -> Besoins du client
 
 ## Temps de travail
